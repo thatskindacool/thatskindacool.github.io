@@ -1,0 +1,4 @@
+#include "lab.h"
+void createGrap(double a, double b, double c) {
+    std::ostringstream oss; //ostringstream creates string as an output to a program
+}
